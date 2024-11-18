@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\С++\С++ прложение\project_1\project_1\x64\Debug\project_1.vcxproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C++\C++ prilojenije\project_1\project_1\x64\Debug\project_1.vcxproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C++\C++ prilojenije\project_1\project_1\x64\Debug\project1.MyForm.resources
+C:\Users\admin\Desktop\C++\C++ prilojenije\project_1\project_1\x64\Debug\project_1.vcxproj.GenerateResource.cache
